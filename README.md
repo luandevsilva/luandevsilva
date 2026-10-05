@@ -16,16 +16,12 @@ Atualmente, estou aprofundando meus conhecimentos em **arquitetura de software, 
 
 - 🏗️ Arquitetura e design de sistemas
 - 🔌 APIs e sistemas backend
-- 🧩 Clean Architecture e separação de responsabilidades
+- 🧩 Clean Architecture e engenharia de software
 - 🗄️ Bancos de dados e modelagem
 - 🔐 Autenticação, autorização e segurança
-- ⚙️ Regras de negócio e domínio
-- 🌐 Aplicações web e SaaS
-- 🧪 Testes e qualidade de software
-- 🚀 Performance e escalabilidade
+- ⚙️ Regras de negócio e sistemas orientados a domínio
+- 🚀 Performance, escalabilidade e confiabilidade
 - 🤖 Automação e ferramentas de desenvolvimento
-- 🧠 Engenharia de software e boas práticas
-- 📚 Aprendizado contínuo e compartilhamento de conhecimento
 
 ---
 
@@ -47,7 +43,7 @@ Atualmente, estou aprofundando meus conhecimentos em **arquitetura de software, 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=for-the-badge)
 
-### Banco de dados
+### Banco de Dados
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -63,12 +59,12 @@ Atualmente, estou aprofundando meus conhecimentos em **arquitetura de software, 
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
-### Architecture & Engineering
+### Arquitetura & Engenharia
 
 `SOLID` · `Clean Code` · `Clean Architecture` · `Dependency Injection`
 · `Dependency Inversion` · `API Integration` · `Multi-Tenant`
 
-### Patterns & Architectural Concepts
+### Patterns & Conceitos Arquiteturais
 
 `Repository` · `Use Case` · `DTO` · `Guard`
 
@@ -76,7 +72,7 @@ Atualmente, estou aprofundando meus conhecimentos em **arquitetura de software, 
 
 ## 🚀 Projetos & Experiência
 
-Grande parte do meu aprendizado acontece através da **construção e evolução de sistemas reais**, aplicando conceitos de arquitetura, desenvolvimento full stack e regras de negócio em cenários práticos.
+Grande parte da minha evolução técnica acontece através da **construção e evolução de sistemas reais**, aplicando conceitos de arquitetura, desenvolvimento full stack e regras de negócio em cenários práticos.
 
 ### 📌 Projetos em destaque
 
@@ -92,7 +88,7 @@ Sistema full stack para **gestão de ordens de serviço e equipes**, com dashboa
 
 ### 💼 Projetos profissionais
 
-#### ⚖️ Sistema de Advocacia / CRM
+#### ⚖️ Sistema de Advocacia — CRM
 
 Sistema full stack para gestão de **clientes, processos e escritórios**, desenvolvido com arquitetura voltada para o modelo **white-label**.
 
@@ -116,19 +112,13 @@ O sistema contempla gerenciamento de eventos, inscrições, participantes e pres
 
 ---
 
-### 🧠 Principais temas que venho explorando
+## 🎯 Atualmente
 
-- **APIs REST e sistemas backend** com NestJS, TypeScript e PostgreSQL
-- **Arquitetura de software** e separação de responsabilidades
-- **Clean Architecture**, SOLID e Dependency Injection
-- **Autenticação e autorização** com JWT e diferentes níveis de acesso
-- **Sistemas multi-tenant** e isolamento por organização
-- **Aplicações React** com foco em organização, UX e responsividade
-- **Dashboards e visualização de dados**
-- **Integrações e automações** utilizando APIs, Swagger e n8n
-- **Monorepos** e organização de aplicações
-- **Documentação e análise arquitetural**
-- **Uso de IA como ferramenta de engenharia e desenvolvimento**
+- Aprofundando conhecimentos em arquitetura e design de sistemas
+- Evoluindo aplicações backend com NestJS e TypeScript
+- Explorando arquiteturas multi-tenant e sistemas orientados a domínio
+- Aprimorando práticas de engenharia, documentação e qualidade de código
+- Utilizando IA como ferramenta de análise, planejamento e desenvolvimento
 
 ---
 
@@ -158,28 +148,17 @@ E, principalmente, tento evitar transformar boas práticas em dogmas.
 
 ## 🤖 Engenharia + IA
 
-Também utilizo ferramentas de IA como parte do processo de desenvolvimento.
+Utilizo ferramentas de IA como parte do processo de desenvolvimento, principalmente para **explorar codebases, analisar arquitetura, discutir decisões técnicas, planejar mudanças, documentar sistemas e acelerar tarefas de implementação**.
 
-Meu interesse não está apenas em **gerar código**, mas em utilizar IA para:
-
-- explorar e compreender codebases;
-- analisar arquitetura;
-- identificar problemas e inconsistências;
-- discutir decisões técnicas;
-- documentar sistemas;
-- planejar mudanças;
-- automatizar tarefas repetitivas;
-- acelerar implementação sem abrir mão da revisão humana.
-
-Acredito que o desenvolvedor precisa continuar entendendo **o que está sendo construído, por que está sendo construído e quais são os custos das decisões tomadas**.
+A IA é uma ferramenta de engenharia — não um substituto para entender **o que está sendo construído, por que está sendo construído e quais são os trade-offs das decisões tomadas**.
 
 ---
 
 ## 📊 GitHub
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=luandevsilva&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luandevsilva&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=luandevsilva&show_icons=true&theme=github_dark&count_private=true&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luandevsilva&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
@@ -190,11 +169,11 @@ Acredito que o desenvolvedor precisa continuar entendendo **o que está sendo co
 
 <p align="left">
 
-  <a href="[https://github.com/luandevsilva]">
+  <a href="https://github.com/luandevsilva">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="[www.linkedin.com/in/luan-costa-silva]">
+  <a href="https://www.linkedin.com/in/luan-costa-silva">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
