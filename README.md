@@ -165,8 +165,6 @@ A IA é uma ferramenta de engenharia — não um substituto para entender **o qu
 
 ## 🌐 Onde me encontrar
 
-> **Edite esta seção com as redes que você realmente utiliza profissionalmente.**
-
 <p align="left">
 
   <a href="https://github.com/luandevsilva">
